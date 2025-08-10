@@ -1,0 +1,6 @@
+torch
+gymnasium[atari]
+gymnasium[classic-control]
+gymnasium[accept-rom-license]
+opencv-python
+
